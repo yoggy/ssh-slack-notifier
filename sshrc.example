@@ -1,0 +1,3 @@
+#!/bin/sh
+/usr/local/bin/ssh-slack-notifier.py $USER $SSH_CLIENT
+
